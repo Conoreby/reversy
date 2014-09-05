@@ -1,0 +1,1 @@
+cmd_/home/conor/linux-3.14.5/drivers/misc/reverse/reverse.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-4-common/scripts/module-common.lds --build-id  -o /home/conor/linux-3.14.5/drivers/misc/reverse/reverse.ko /home/conor/linux-3.14.5/drivers/misc/reverse/reverse.o /home/conor/linux-3.14.5/drivers/misc/reverse/reverse.mod.o
